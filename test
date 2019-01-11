@@ -1,11 +1,5 @@
 [CODE]
 dynamic_style.css
-/*
-Any styles applied here will affect the BODY tag 
-in your page, a good place to put background-color 
-or background-image definitions instead of the HTML 
-code, to better separate layout from content!
-*/
 body{
 background-color: #FFFFFF;
 }
